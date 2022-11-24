@@ -1,3 +1,3 @@
 # Enigma Machine
 
-A program which emulate the enigma machine.
+A C# program designed to emulate a German cipher-machine, the Enigma Machine.
